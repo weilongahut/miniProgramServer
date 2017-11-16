@@ -1,4 +1,3 @@
-# test-1030-gradle
-od
-test test force rc
-test force rc
+# miniProgram Server
+
+This is the server end for miniProgram
